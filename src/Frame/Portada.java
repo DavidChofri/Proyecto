@@ -14,6 +14,8 @@ public class Portada extends javax.swing.JFrame {
     /**
      * Creates new form Portada
      */
+    
+    System.out.print("Hola Que tal");
     public Portada() {
         initComponents();
     }
